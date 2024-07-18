@@ -1,0 +1,5 @@
+--- Đẩy code từ local lên remote
+
+1. git add -A 
+2. git commit -m " create home page html"
+3. git push -u origin master 
